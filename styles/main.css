@@ -75,3 +75,28 @@ li {
   width: 75%;
 }
 
+.sprint-2 {
+  width: 600px;
+  height: 350px;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+.example {
+  width: 600px;
+  height: 200px;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+.main {
+  background-color: #FFAFA4;
+}
+
+#demo {
+  background-color: #DEDAF7;
+}
