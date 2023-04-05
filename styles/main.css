@@ -1,5 +1,77 @@
 body {
-  background-color:lightblue;
   font-family: sans-serif;
   padding: 20px;
+  text-align: center;
+  margin: auto;
+  word-spacing: normal;
+  background-image: url(https://public.bnbstatic.com/static/academy/uploads-original/0ee9d7d59d424a7c8bd7d70c86070beb.png);
+
 }
+
+
+img {
+  width: 200px;
+  
+}
+.gallery {
+  overflow: auto; /* clear float */
+}
+
+img {
+  float: left;
+  margin-right: 10px; /* add some space between the image and text */
+}
+.one {
+  width: 500px;
+  height: 180px;
+  background-color: #efb762;
+  margin: 30px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+.two {
+  width: 500px;
+  height: 250px;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #eeff01;
+}
+
+.three {
+  width: 500px;
+  height: 180px;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+.four {
+  width: 500px;
+  height: 250px;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+
+ul {
+  list-style-position: inside;
+  padding-left: -50;
+}
+
+li {
+  list-style:circle;
+  margin-bottom: 5px;
+  padding: auto;
+
+}
+
+.tech {
+  text-align: left;
+  width: 75%;
+}
+
