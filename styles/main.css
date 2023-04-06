@@ -78,7 +78,7 @@ img {
   width: 600px;
   height: 350px;
   background-color: #efb762;
-  margin: 20px auto;
+  margin: 100px auto 10px;
   border-radius: 9px;
   box-shadow: 0 0 10px 3px #000000;
 }
