@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  word-spacing: normal;
+  background-image: url(https://public.bnbstatic.com/static/academy/uploads-original/0ee9d7d59d424a7c8bd7d70c86070beb.png);
+
+}
+
+.one {
+  width: 840px;
+  height: 400px;
+  background-color: #efb762;
+  margin: 100px auto 10px;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+}
+
+.identity-value {
+  width: 800px;
+  height: auto;
+  background-color: #efb762;
+  margin: 20px auto;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+  padding: 20px;
+}
+
+.nav {
+  display:flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.nav-inner-container {
+  background: rgb(180, 178, 17);
+  display: flex;
+  flex-direction: row;
+  max-width: 10000px;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.nav-logo-container {
+  margin-right: 40%;
+}
+
+.nav-link-container {
+  min-width: min-content;
+  margin-right: 15px;
+}
