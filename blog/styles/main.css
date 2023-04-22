@@ -53,3 +53,13 @@ body {
   min-width: min-content;
   margin-right: 15px;
 }
+
+.identity-value1 {
+  width: 800px;
+  height: auto;
+  background-color: #efb762;
+  margin: 100px 194px 20px 194px ;
+  border-radius: 9px;
+  box-shadow: 0 0 10px 3px #000000;
+  padding: 20px;
+}
